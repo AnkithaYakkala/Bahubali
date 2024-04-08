@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1712586440,,"wq"
+|2,0,1712590614,,"wq"
 :wq\
 |2,0,1712585593,,"wq\\"
 
@@ -27,20 +27,56 @@
 # Registers:
 
 # File marks:
-'0  7  80  ~/shinchan
-|4,48,7,80,1712586440,"~/shinchan"
-'1  12  0  ~/shinchan
-|4,49,12,0,1712585604,"~/shinchan"
-'2  12  0  ~/shinchan
-|4,50,12,0,1712585604,"~/shinchan"
+'0  5  2  ~/shinchan
+|4,48,5,2,1712590614,"~/shinchan"
+'1  10  7  ~/himawari
+|4,49,10,7,1712589445,"~/himawari"
+'2  11  80  ~/shinchan
+|4,50,11,80,1712586440,"~/shinchan"
+'3  7  80  ~/shinchan
+|4,51,7,80,1712586440,"~/shinchan"
+'4  16  0  ~/shinchan
+|4,52,16,0,1712585604,"~/shinchan"
+'5  16  0  ~/shinchan
+|4,53,16,0,1712585604,"~/shinchan"
+'6  12  0  ~/shinchan
+|4,54,12,0,1712585604,"~/shinchan"
+'7  12  0  ~/shinchan
+|4,55,12,0,1712585604,"~/shinchan"
 
 # Jumplist (newest first):
+-'  5  2  ~/shinchan
+|4,39,5,2,1712590614,"~/shinchan"
+-'  1  0  ~/shinchan
+|4,39,1,0,1712590588,"~/shinchan"
+-'  10  7  ~/himawari
+|4,39,10,7,1712589445,"~/himawari"
+-'  10  7  ~/himawari
+|4,39,10,7,1712589445,"~/himawari"
+-'  1  0  ~/himawari
+|4,39,1,0,1712589410,"~/himawari"
+-'  1  0  ~/himawari
+|4,39,1,0,1712589410,"~/himawari"
+-'  11  80  ~/shinchan
+|4,39,11,80,1712586440,"~/shinchan"
 -'  7  80  ~/shinchan
 |4,39,7,80,1712586440,"~/shinchan"
+-'  7  80  ~/shinchan
+|4,39,7,80,1712586440,"~/shinchan"
+-'  16  0  ~/shinchan
+|4,39,16,0,1712586395,"~/shinchan"
+-'  12  0  ~/shinchan
+|4,39,12,0,1712586395,"~/shinchan"
 -'  12  0  ~/shinchan
 |4,39,12,0,1712586395,"~/shinchan"
 -'  12  0  ~/shinchan
 |4,39,12,0,1712585604,"~/shinchan"
+-'  12  0  ~/shinchan
+|4,39,12,0,1712585604,"~/shinchan"
+-'  1  0  ~/shinchan
+|4,39,1,0,1712585454,"~/shinchan"
+-'  1  0  ~/shinchan
+|4,39,1,0,1712585454,"~/shinchan"
 -'  1  0  ~/shinchan
 |4,39,1,0,1712585454,"~/shinchan"
 -'  1  0  ~/shinchan
@@ -49,9 +85,17 @@
 # History of marks within files (newest to oldest):
 
 > ~/shinchan
-	*	1712586436	0
-	"	7	80
-	^	7	81
-	.	7	80
-	+	11	8
-	+	7	80
+	*	1712590612	0
+	"	5	2
+	^	5	3
+	.	5	3
+	+	15	8
+	+	11	80
+	+	5	3
+
+> ~/himawari
+	*	1712589441	0
+	"	10	7
+	^	10	8
+	.	10	7
+	+	10	7
