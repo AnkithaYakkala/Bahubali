@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1712585604,,"wq"
+|2,0,1712586440,,"wq"
 :wq\
 |2,0,1712585593,,"wq\\"
 
@@ -27,20 +27,31 @@
 # Registers:
 
 # File marks:
-'0  12  0  ~/shinchan
-|4,48,12,0,1712585604,"~/shinchan"
+'0  7  80  ~/shinchan
+|4,48,7,80,1712586440,"~/shinchan"
+'1  12  0  ~/shinchan
+|4,49,12,0,1712585604,"~/shinchan"
+'2  12  0  ~/shinchan
+|4,50,12,0,1712585604,"~/shinchan"
 
 # Jumplist (newest first):
+-'  7  80  ~/shinchan
+|4,39,7,80,1712586440,"~/shinchan"
+-'  12  0  ~/shinchan
+|4,39,12,0,1712586395,"~/shinchan"
 -'  12  0  ~/shinchan
 |4,39,12,0,1712585604,"~/shinchan"
+-'  1  0  ~/shinchan
+|4,39,1,0,1712585454,"~/shinchan"
 -'  1  0  ~/shinchan
 |4,39,1,0,1712585454,"~/shinchan"
 
 # History of marks within files (newest to oldest):
 
 > ~/shinchan
-	*	1712585602	0
-	"	12	0
-	^	12	0
-	.	11	8
+	*	1712586436	0
+	"	7	80
+	^	7	81
+	.	7	80
 	+	11	8
+	+	7	80
